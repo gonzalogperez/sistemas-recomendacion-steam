@@ -1,1 +1,3 @@
-sistemas-recomendacion-steam
+Sistemas de Recomendación
+Dataset: STEAM
+
